@@ -17,6 +17,7 @@
 |---|---|
 | 📊 **Project Presentation** | [View / Download Presentation](./MSRIT_Chocochipcookies-submission-2_compressed.pdf) |
 | 📄 **AI Disclosure Form** | [View / Download AI Disclosure Form](./Sam_chocochipcookies_LangAI3.0_AI_Disclosure%201.docx) |
+| 🎥 **Video Link** | [Watch Project Demo](https://drive.google.com/file/d/1IxvRJ4u7mLaf9M77QkqxQz_EHH29XfEC/view) |
 
 > 🎥 The project demonstration video is included/referenced inside the presentation.
 
