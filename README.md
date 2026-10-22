@@ -7,6 +7,16 @@
 [![Android Accessibility](https://img.shields.io/badge/Android-Accessibility%20Automation-3DDC84.svg?logo=android&logoColor=white)](#-android-automation-layer)
 [![Privacy](https://img.shields.io/badge/Architecture-Local%20%26%20Privacy--First-success.svg)](#-privacy-first-design)
 
+📱 Download APK
+
+Click the button below to download the Android application.
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/15JPUxZ4kxlKcHJpMLhpvBcfVWckrT7hy/view">
+    <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK"/>
+  </a>
+</p>
+
 > **Teachable Voice Automation (TAV)** is a privacy-first Android automation system that allows users to **teach a task once and reuse it later**. TAV combines Android Accessibility Services, UI understanding, local workflow memory, semantic matching, workflow replay, and an on-device LLM to automate multi-step tasks across Android applications.
 
 ---
